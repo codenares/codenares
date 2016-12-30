@@ -15,7 +15,7 @@ Nos gustaría contar con charlas con los siguientes parámetros:
 3. Charlas que traten sobre software (lenguajes de programación, frameworks, buenas prácticas, testing...) 
 pero también sobre áreas tan variopintas como el análisis de datos, IoT, Cloud, Data, Machine Learning, Arquitectura, UX, Front o Agilismo. 
 Cualquier tema puede ser bueno mientras respete las premisas anteriores.
-4. Charlas con una duración de entre 30 0 40 minutos.
+4. Charlas con una duración de entre 30 o 40 minutos.
 
 ## Charlas propuestas
 
