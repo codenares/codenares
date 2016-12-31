@@ -27,6 +27,8 @@ A día de hoy estas son las charlas que la comunidad codenares ha propuesto:
 | Angel J. Alvarez Miguel | [Linked In](https://www.linkedin.com/in/angeljalvarezmiguel) | Alcalá de Henares         | Una breve historia de Erlang  | Charla sobre cómo empezar a desarrollar con Erlang                         | Alcalá de Henares                     |
 | Victor J. Pascual       | [Linked In](https://www.linkedin.com/in/vpascualmiguel)      | Guadalajara               | Mides o ke ase!               | Charla sobre Analítica Web y aspectos a tener en cuenta en la venta online | Guadalajara, Alcalá de Henares        |
 | Daniel Romero Esteban | [Linked In](https://www.linkedin.com/in/daniel-romero-esteban-b2901a72) | Guadalajara | Colega ¿Donde está mi dispostivo? | Estado del arte de la geolocalización outdoor e indoor con google maps, foursquare, indooratlas y alguno más | Guadalajara, Alcalá de Henares |
+| Alejandro Ayuso | [LinkedIn](https://es.linkedin.com/in/alejandroayuso) | Torrejón | SmartTV 101 | Intro al desarrollo de webapps para SmartTVs | Alcalá de Henares |
+| Alejandro Ayuso | [LinkedIn](https://es.linkedin.com/in/alejandroayuso) | Torrejón | React my apps | Desarrollo de apps Android/iOS con React Native | Alcalá de Henares |
 
 ## Charlas ya impartidas
 
