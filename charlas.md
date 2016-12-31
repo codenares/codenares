@@ -23,9 +23,10 @@ A día de hoy estas son las charlas que la comunidad codenares ha propuesto:
 
 | Ponente                 | Perfil Ponente                                               | Localización ponente      | Titulo charla                 | Descripción charla                                                         | Preferencias de sedes                 |
 | ----------------------  | ------------------------------------------------------------ | ------------------------- | ----------------------------- | -------------------------------------------------------------------------- | ------------------------------------- |
-| Silva Barroso Padilla   | [Linked In](https://es.linkedin.com/in/silviabarroso)        | Torrejón                  | UX, en busca del arca perdida | Charla sobre la relación que existe entre UX y Desarrollo                  | --                                    |
+| Silvia Barroso Padilla   | [Linked In](https://es.linkedin.com/in/silviabarroso)        | Torrejón                  | UX, en busca del arca perdida | Charla sobre la relación que existe entre UX y Desarrollo                  | --                                    |
 | Angel J. Alvarez Miguel | [Linked In](https://www.linkedin.com/in/angeljalvarezmiguel) | Alcalá de Henares         | Una breve historia de Erlang  | Charla sobre cómo empezar a desarrollar con Erlang                         | Alcalá de Henares                     |
 | Victor J. Pascual       | [Linked In](https://www.linkedin.com/in/vpascualmiguel)      | Guadalajara               | Mides o ke ase!               | Charla sobre Analítica Web y aspectos a tener en cuenta en la venta online | Guadalajara, Alcalá de Henares        |
+| Daniel Romero Esteban | [Linked In](https://www.linkedin.com/in/daniel-romero-esteban-b2901a72) | Guadalajara | Colega ¿Donde está mi dispostivo? | Estado del arte de la geolocalización outdoor e indoor con google maps, foursquare, indooratlas y alguno más | Guadalajara, Alcalá de Henares |
 
 ## Charlas ya impartidas
 
