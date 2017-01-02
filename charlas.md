@@ -29,6 +29,7 @@ A día de hoy estas son las charlas que la comunidad codenares ha propuesto:
 | Daniel Romero Esteban | [Linked In](https://www.linkedin.com/in/daniel-romero-esteban-b2901a72) | Guadalajara | Colega ¿Donde está mi dispostivo? | Estado del arte de la geolocalización outdoor e indoor con google maps, foursquare, indooratlas y alguno más | Guadalajara, Alcalá de Henares |
 | Alejandro Ayuso | [LinkedIn](https://es.linkedin.com/in/alejandroayuso) | Torrejón | SmartTV 101 | Intro al desarrollo de webapps para SmartTVs | Alcalá de Henares |
 | Alejandro Ayuso | [LinkedIn](https://es.linkedin.com/in/alejandroayuso) | Torrejón | React my apps | Desarrollo de apps Android/iOS con React Native | Alcalá de Henares |
+| Rubén Aguilera | [LinkedIn](https://es.linkedin.com/in/rubenaguilera) | Alcalá de Henares | Integración Angular, Polymer, Ionic 2 y Firebase | En esta charla vamos a ver cómo podemos integrar estas tecnologías para crear aplicaciones móviles con módulos reutilizables y haciendo un poco de live coding | -- |
 
 ## Charlas ya impartidas
 
