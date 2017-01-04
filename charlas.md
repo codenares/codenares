@@ -31,6 +31,8 @@ A día de hoy estas son las charlas que la comunidad codenares ha propuesto:
 | Alejandro Ayuso | [LinkedIn](https://es.linkedin.com/in/alejandroayuso) | Torrejón | React my apps | Desarrollo de apps Android/iOS con React Native | Alcalá de Henares |
 | Diego Martínez | [LinkedIn](https://es.linkedin.com/in/diegomartinezgil) [Twitter](https://twitter.com/diegomrtnzg) | Madrid | El mundo al revés: Bash en Windows y PowerShell en Linux | Recuerdas ese tiempo en que Windows y Linux estaban enfrentados? ¡No hace tanto de eso! Pero ha llegado un tiempo nuevo en el que el usuario es lo importante. ¿Y qué ha pasado? Que ahora tienes la posibilidad de ejecutar comandos de Bash en Windows, o ejecutar comandos de PowerShell en Linux. En esta sesión nos adentraremos en todas posibilidades que nos dan estas novedades. | Guadalajara |
 | Diego Martínez | [LinkedIn](https://es.linkedin.com/in/diegomartinezgil) [Twitter](https://twitter.com/diegomrtnzg) | Madrid | Containers everywhere | La evolución en el mundo de IT es constante, y si hace unos años comenzamos a utilizar las máquinas virtuales, estos ya se estas ya se están comenzando a quedar obsoletas para algunas tareas siendo remplazadas por los contenedores: entornos más ligeros y multiplataforma. En esta sesión veremos una introducción a estos y cómo usarlos en Windows y Microsoft Azure. | Guadalajara |
+| Rubén Aguilera | [LinkedIn](https://es.linkedin.com/in/rubenaguilera) | Alcalá de Henares | Integración Angular, Polymer, Ionic 2 y Firebase | En esta charla vamos a ver cómo podemos integrar estas tecnologías para crear aplicaciones móviles con módulos reutilizables y haciendo un poco de live coding | -- |
+
 
 ## Charlas ya impartidas
 
@@ -38,7 +40,13 @@ Estas son las charlas que ya se han impartido en nuestras quedadas:
 
 ### Charlas del 28 de Enero de 2017
 
-| Ponente       | Perfil Ponente    | Localización ponente      | Titulo charla         | Descripción charla                  | Preferencias de sedes                  |
+#### Método de selección: 
+ - Charlas seleccionadas por los coordinares de codenares. 
+ - Se priorizó ponentes que fueran de Alcalá de Henares.
+ - Se priorizó disponibilidad y preferencia de sede de los ponentes.
+ 
+| Ponente       | Perfil Ponente    | Localización ponente      | Titulo charla         | Descripción charla                  | Preferencias de sedes                  |
 | ------------- | ----------------- | ------------------------- | --------------------- | ----------------------------------- | -------------------------------------  |
-
+| Angel J. Alvarez Miguel | [Linked In](https://www.linkedin.com/in/angeljalvarezmiguel) | Alcalá de Henares         | Una breve historia de Erlang  | Charla sobre cómo empezar a desarrollar con Erlang                         | Alcalá de Henares                     |
+| Rubén Aguilera | [LinkedIn](https://es.linkedin.com/in/rubenaguilera) | Alcalá de Henares | Integración Angular, Polymer, Ionic 2 y Firebase | En esta charla vamos a ver cómo podemos integrar estas tecnologías para crear aplicaciones móviles con módulos reutilizables y haciendo un poco de live coding | -- |
 
