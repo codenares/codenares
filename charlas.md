@@ -1,6 +1,6 @@
 # Posibles charlas codenares
 ## Introducción
-Con la idea de conseguir una comunidad más transparente, el sistema de registro y propuesta de charlas se realizará de manera pública. 
+Con la idea de conseguir una comunidad más transparente, el sistema de registro y propuesta de charlas se realizará de manera pública.
 El sistema para hacer una propuesta será la siguiente:
 
 1. Clona el repositorio
@@ -12,8 +12,8 @@ Nos gustaría contar con charlas con los siguientes parámetros:
 
 1. Charlas que cuenten experiencias sobre temas relacionados con tecnología y desarrollo de software.
 2. Charlas que no estén vinculadas a la promoción ni la divulgación de productos y/o empresas con intereses comerciales.
-3. Charlas que traten sobre software (lenguajes de programación, frameworks, buenas prácticas, testing...) 
-pero también sobre áreas tan variopintas como el análisis de datos, IoT, Cloud, Data, Machine Learning, Arquitectura, UX, Front o Agilismo. 
+3. Charlas que traten sobre software (lenguajes de programación, frameworks, buenas prácticas, testing...)
+pero también sobre áreas tan variopintas como el análisis de datos, IoT, Cloud, Data, Machine Learning, Arquitectura, UX, Front o Agilismo.
 Cualquier tema puede ser bueno mientras respete las premisas anteriores.
 4. Charlas con una duración de entre 30 o 40 minutos.
 
@@ -32,6 +32,8 @@ A día de hoy estas son las charlas que la comunidad codenares ha propuesto:
 | Diego Martínez | [LinkedIn](https://es.linkedin.com/in/diegomartinezgil) [Twitter](https://twitter.com/diegomrtnzg) | Madrid | Containers everywhere | La evolución en el mundo de IT es constante, y si hace unos años comenzamos a utilizar las máquinas virtuales, estos ya se estas ya se están comenzando a quedar obsoletas para algunas tareas siendo remplazadas por los contenedores: entornos más ligeros y multiplataforma. En esta sesión veremos una introducción a estos y cómo usarlos en Windows y Microsoft Azure. | Guadalajara |
 | Julio Berzal | [LinkedIn](https://es.linkedin.com/in/julioberzal) [Twitter](https://twitter.com/triskelapps) | Alcalá de Henares | Patrón de diseño: Model View Presenter - Ejemplo práctico en Android | Cada vez se escucha más hablar de este patrón de diseño para crear interfaces gráficas. Es bastante atractivo por su capacidad para desacoplar componentes, mejorar la legibilidad y facilitar pruebas unitarias. Haremos una pequeña introducción y un ejemplo práctico | Alcalá de Henares |
 | Victor J. Pascual | [Linked In](https://www.linkedin.com/in/vpascualmiguel) | Guadalajara | Emprender o no emprender, esa es la cuestión | Contar cómo es emprender en el tema de tecnología desde mi propia experiencia y contando un poco que se necesita para comenzar a hacer algo empresarial en el sector en el que nos movemos | Guadalajara |
+| Iván Rubio | [Linked In](https://www.linkedin.com/in/ivan-rubio-moreno) | Guadalajara | Desarrollo de videojuegos con Cocos2d-x | Introducción al desarrollo de videojuegos con cocos2d-x | Guadalajara |
+| Iván Rubio | [Linked In](https://www.linkedin.com/in/ivan-rubio-moreno) | Guadalajara | Introducción a Arduino | Iniciacción a la placa arduinoy  su entorno de programación | Guadalajara |
 
 
 ## Charlas ya impartidas
@@ -40,11 +42,11 @@ Estas son las charlas que ya se han impartido en nuestras quedadas:
 
 ### Charlas del 28 de Enero de 2017
 
-#### Método de selección: 
- - Charlas seleccionadas por los coordinares de codenares. 
+#### Método de selección:
+ - Charlas seleccionadas por los coordinares de codenares.
  - Se priorizó ponentes que fueran de Alcalá de Henares.
  - Se priorizó disponibilidad y preferencia de sede de los ponentes.
- 
+
 | Ponente       | Perfil Ponente    | Localización ponente      | Titulo charla         | Descripción charla                  | Preferencias de sedes                  |
 | ------------- | ----------------- | ------------------------- | --------------------- | ----------------------------------- | -------------------------------------  |
 | Angel J. Alvarez Miguel | [Linked In](https://www.linkedin.com/in/angeljalvarezmiguel) | Alcalá de Henares         | Una breve historia de Erlang  | Charla sobre cómo empezar a desarrollar con Erlang                         | Alcalá de Henares                     |
