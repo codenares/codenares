@@ -1,7 +1,7 @@
 # Posibles charlas codenares
 ## Introducción
-Con la idea de conseguir una comunidad más transparente, el sistema de registro y propuesta de charlas se realizará de manera pública.
-El sistema para hacer una propuesta será la siguiente: 
+Con la idea de conseguir una comunidad más transparente, el sistema de registro y propuesta de charlas se realizará de manera pública. 
+El sistema para hacer una propuesta será la siguiente:
 
 1. Clona el repositorio
 2. Incluye tu charla en la tabla `CHARLAS PROPUESTAS` indicando todos los datos que se piden a continuación
@@ -47,8 +47,7 @@ Estas son las charlas que ya se han impartido en nuestras quedadas:
  - Se priorizó ponentes que fueran de Alcalá de Henares.
  - Se priorizó disponibilidad y preferencia de sede de los ponentes.
  
-| Ponente       | Perfil Ponente    | Localización ponente      | Titulo charla         | Descripción charla                  | Preferencias de sedes                  |
+| Ponente       | Perfil Ponente    | Localización ponente      | Titulo charla         | Descripción charla                  | Preferencias de sedes                  |
 | ------------- | ----------------- | ------------------------- | --------------------- | ----------------------------------- | -------------------------------------  |
 | Angel J. Alvarez Miguel | [Linked In](https://www.linkedin.com/in/angeljalvarezmiguel) | Alcalá de Henares         | Una breve historia de Erlang  | Charla sobre cómo empezar a desarrollar con Erlang                         | Alcalá de Henares                     |
 | Rubén Aguilera | [LinkedIn](https://es.linkedin.com/in/rubenaguilera) | Alcalá de Henares | Integración Angular, Polymer, Ionic 2 y Firebase | En esta charla vamos a ver cómo podemos integrar estas tecnologías para crear aplicaciones móviles con módulos reutilizables y haciendo un poco de live coding | -- |
-
