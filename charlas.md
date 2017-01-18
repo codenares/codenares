@@ -51,3 +51,4 @@ Estas son las charlas que ya se han impartido en nuestras quedadas:
 | ------------- | ----------------- | ------------------------- | --------------------- | ----------------------------------- | -------------------------------------  |
 | Angel J. Alvarez Miguel | [Linked In](https://www.linkedin.com/in/angeljalvarezmiguel) | Alcalá de Henares         | Una breve historia de Erlang  | Charla sobre cómo empezar a desarrollar con Erlang                         | Alcalá de Henares                     |
 | Rubén Aguilera | [LinkedIn](https://es.linkedin.com/in/rubenaguilera) | Alcalá de Henares | Integración Angular, Polymer, Ionic 2 y Firebase | En esta charla vamos a ver cómo podemos integrar estas tecnologías para crear aplicaciones móviles con módulos reutilizables y haciendo un poco de live coding | -- |
+
