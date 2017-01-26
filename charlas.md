@@ -34,6 +34,7 @@ A día de hoy estas son las charlas que la comunidad codenares ha propuesto:
 | Victor J. Pascual | [Linked In](https://www.linkedin.com/in/vpascualmiguel) | Guadalajara | Emprender o no emprender, esa es la cuestión | Contar cómo es emprender en el tema de tecnología desde mi propia experiencia y contando un poco que se necesita para comenzar a hacer algo empresarial en el sector en el que nos movemos | Guadalajara |
 | Iván Rubio | [Linked In](https://www.linkedin.com/in/ivan-rubio-moreno) | Guadalajara | Desarrollo de videojuegos con Cocos2d-x | Introducción al desarrollo de videojuegos con cocos2d-x | Guadalajara |
 | Iván Rubio | [Linked In](https://www.linkedin.com/in/ivan-rubio-moreno) | Guadalajara | Introducción a Arduino | Iniciacción a la placa arduinoy  su entorno de programación | Guadalajara |
+| Rubén Fernández | [Twitter](https://twitter/_rubenfa) [LinkedIn](https://www.linkedin.com/in/rub%C3%A9n-fern%C3%A1ndez-alfonso-78803327/) | Rivas | Programación funcional para ~~tontos~~ todos (con Elixir) | Aunque la PF puede parecer algo más propio de Rockstars developers, en realidad está al alcance de cualquiera. Vamos, que si yo puedo aprender Elixir, tú también | --
 
 
 ## Charlas ya impartidas
