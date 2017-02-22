@@ -23,9 +23,7 @@ A día de hoy estas son las charlas que la comunidad codenares ha propuesto:
 
 | Ponente                 | Perfil Ponente                                               | Localización ponente      | Titulo charla                 | Descripción charla                                                         | Preferencias de sedes                 |
 | ----------------------  | ------------------------------------------------------------ | ------------------------- | ----------------------------- | -------------------------------------------------------------------------- | ------------------------------------- |
-| Silvia Barroso Padilla  | [Linked In](https://es.linkedin.com/in/silviabarroso) | Torrejón                  | UX, en busca del arca perdida | Charla sobre la relación que existe entre UX y Desarrollo                  | --                                    |
 | Victor J. Pascual | [Linked In](https://www.linkedin.com/in/vpascualmiguel) | Guadalajara | Mides o ke ase!               | Charla sobre Analítica Web y aspectos a tener en cuenta en la venta online | Guadalajara |
-| Daniel Romero Esteban | [Linked In](https://www.linkedin.com/in/daniel-romero-esteban-b2901a72) | Guadalajara | Colega ¿Donde está mi dispostivo? | Estado del arte de la geolocalización outdoor e indoor con google maps, foursquare, indooratlas y alguno más | Guadalajara, Alcalá de Henares |
 | Alejandro Ayuso | [LinkedIn](https://es.linkedin.com/in/alejandroayuso) | Torrejón | SmartTV 101 | Intro al desarrollo de webapps para SmartTVs | Alcalá de Henares |
 | Alejandro Ayuso | [LinkedIn](https://es.linkedin.com/in/alejandroayuso) | Torrejón | React my apps | Desarrollo de apps Android/iOS con React Native | Alcalá de Henares |
 | Diego Martínez | [LinkedIn](https://es.linkedin.com/in/diegomartinezgil) [Twitter](https://twitter.com/diegomrtnzg) | Madrid | El mundo al revés: Bash en Windows y PowerShell en Linux | Recuerdas ese tiempo en que Windows y Linux estaban enfrentados? ¡No hace tanto de eso! Pero ha llegado un tiempo nuevo en el que el usuario es lo importante. ¿Y qué ha pasado? Que ahora tienes la posibilidad de ejecutar comandos de Bash en Windows, o ejecutar comandos de PowerShell en Linux. En esta sesión nos adentraremos en todas posibilidades que nos dan estas novedades. | Guadalajara |
@@ -53,3 +51,15 @@ Estas son las charlas que ya se han impartido en nuestras quedadas:
 | Angel J. Alvarez Miguel | [Linked In](https://www.linkedin.com/in/angeljalvarezmiguel) | Alcalá de Henares         | Una breve historia de Erlang  | Charla sobre cómo empezar a desarrollar con Erlang                         | Alcalá de Henares                     |
 | Rubén Aguilera | [LinkedIn](https://es.linkedin.com/in/rubenaguilera) | Alcalá de Henares | Integración Angular, Polymer, Ionic 2 y Firebase | En esta charla vamos a ver cómo podemos integrar estas tecnologías para crear aplicaciones móviles con módulos reutilizables y haciendo un poco de live coding | -- |
 
+### Charlas del 8 de Abril de 2017
+
+#### Método de selección: 
+- La charla de Silvia Barroso fue seleccionada por la comunidad en la encuesta de preferencia. [Link](https://www.meetup.com/es-ES/codenares/polls/1240917/)
+- La charla de Daniel Romero fue elegida por los coordinadores de Codenares. El método de selección fue por orden de llegada en la inscripción de charla. Daniel fue el primero en indicar su charla. 
+- Ambos métodos buscan la participanción de la comunidad y la posible inanición de charlas. De esta forma evitamos que solo se impartan charlas por hype y beneficiamos la diversidad y la escucha de todas las voces.
+
+
+| Ponente       | Perfil Ponente    | Localización ponente      | Titulo charla         | Descripción charla                  | Preferencias de sedes                  |
+| ------------- | ----------------- | ------------------------- | --------------------- | ----------------------------------- | -------------------------------------  |
+| Silvia Barroso Padilla  | [Linked In](https://es.linkedin.com/in/silviabarroso) | Torrejón                  | UX, en busca del arca perdida | Charla sobre la relación que existe entre UX y Desarrollo                  | --                                    |
+| Daniel Romero Esteban | [Linked In](https://www.linkedin.com/in/daniel-romero-esteban-b2901a72) | Guadalajara | Colega ¿Donde está mi dispostivo? | Estado del arte de la geolocalización outdoor e indoor con google maps, foursquare, indooratlas y alguno más | Guadalajara, Alcalá de Henares |
