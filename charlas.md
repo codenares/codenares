@@ -56,7 +56,7 @@ Estas son las charlas que ya se han impartido en nuestras quedadas:
 #### Método de selección: 
 - La charla de Silvia Barroso fue seleccionada por la comunidad en la encuesta de preferencia. [Link](https://www.meetup.com/es-ES/codenares/polls/1240917/)
 - La charla de Daniel Romero fue elegida por los coordinadores de Codenares. El método de selección fue por orden de llegada en la inscripción de charla. Daniel fue el primero en indicar su charla. 
-- Ambos métodos buscan la participanción de la comunidad y la posible inanición de charlas. De esta forma evitamos que solo se impartan charlas por hype y beneficiamos la diversidad y la escucha de todas las voces.
+- Con ambos métodos buscamos la participanción de la comunidad y evitamos la posible inanición de charlas. De esta forma prevenimos que solo se impartan charlas por hype y beneficiamos la diversidad y la escucha de todas las voces.
 
 
 | Ponente       | Perfil Ponente    | Localización ponente      | Titulo charla         | Descripción charla                  | Preferencias de sedes                  |
