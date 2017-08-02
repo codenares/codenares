@@ -1,6 +1,6 @@
 # Posibles charlas codenares
 ## Introducción
-Con la idea de conseguir una comunidad más transparente, el sistema de registro y propuesta de charlas se realizará de manera pública. 
+Con la idea de conseguir una comunidad más transparente, el sistema de registro y propuesta de charlas se realizará de manera pública.
 El sistema para hacer una propuesta será la siguiente:
 
 1. Clona el repositorio
@@ -12,8 +12,8 @@ Nos gustaría contar con charlas con los siguientes parámetros:
 
 1. Charlas que cuenten experiencias sobre temas relacionados con tecnología y desarrollo de software.
 2. Charlas que no estén vinculadas a la promoción ni la divulgación de productos y/o empresas con intereses comerciales.
-3. Charlas que traten sobre software (lenguajes de programación, frameworks, buenas prácticas, testing...) 
-pero también sobre áreas tan variopintas como el análisis de datos, IoT, Cloud, Data, Machine Learning, Arquitectura, UX, Front o Agilismo. 
+3. Charlas que traten sobre software (lenguajes de programación, frameworks, buenas prácticas, testing...)
+pero también sobre áreas tan variopintas como el análisis de datos, IoT, Cloud, Data, Machine Learning, Arquitectura, UX, Front o Agilismo.
 Cualquier tema puede ser bueno mientras respete las premisas anteriores.
 4. Charlas con una duración de entre 30 o 40 minutos.
 
@@ -35,6 +35,7 @@ A día de hoy estas son las charlas que la comunidad codenares ha propuesto:
 | Alberto Marcos | [Twitter](https://twitter/alber86) [LinkedIn](https://www.linkedin.com/in/amarcos86/) | Torrejón de Ardoz | Cómo intenté hacerme rico con la nube... y fracasé estrepitosamente | He probado de todo, un sistema potentísimo de minado de bitcoins, algoritmos de Machine Learning para acertar la Quiniela, y hasta una forma de jugar a videojuegos en Ultra HD por streaming desde cualquier dispositivo, pero nada, todavía no he podido forrarme con esto de la nube | Torrejón |
 | Ruben J Garcia | [Twitter](https://twitter.com/imrubenjgarcia) [Linked In](https://www.linkedin.com/in/rubenjgarciab) | Loeches | Arquitecturas abstractas | En esta charla tratare de explicar los conceptos funcionales y tecnicos que he usado para crear la arquitectura que hay detras de las aplicaciones que desarrollamos en mi empresa. Esta arquitectura es abstracta permitiendo a los programadores no tener que conocer la implementacion que hay detras para poder hacer su trabajo y hace que los desarrollos sean mas rapidos y con menos errores. Ademas conseguimos gracias a un nivel mayor de abstraccion publicar nuestros servicios en forma de Webservice, REST o incluso EJB sin necesidad de cambiar una sola linea de codigo. Otras funcionalidades son DSLs para queries a base de datos, capa de repositorio (DAO) y Builder totalmente abstractas y bases de datos orientada a componentes | Sin preferencia |
 | Ruben J Garcia | [Twitter](https://twitter.com/imrubenjgarcia) [Linked In](https://www.linkedin.com/in/rubenjgarciab) | Loeches | Abstrayendo la logica de negocio del UI | Veremos como se pueden crear aplicaciones en las que podemos reutilizar todo el front pero que dependiendo del cliente donde vayamos a implantar la logica sea distinta. En tiempo de ejecucion podemos cambiar el comportamiento de nuestra aplicacion e incluso delegar esto al cliente final haciendo aplicaciones mas versatiles y ahorrando costes al crear productos en vez de unicas soluciones | Sin preferencia |
+| Bea Hernández | [Twitter](https://twitter.com/chucheria) [Linked In](https://www.linkedin.com/in/bea-hern%C3%A1ndez-9ab53b71/) | Madrid | La gente miente, ¿me puedo fiar de mis resultados? | Cuando trabajas con opiniones, formularios, *ratings*, es difícil creer que todo el mundo está diciendo lo que piensa, ¿qué puedo hacer para obtener unos datos fiables? ¿Qué tengo que considerar para no caer en trampas? Y por último, y más importante, ¿cómo anticipo un sesgo en mis datos y lo tengo en cuenta a la hora de producir resultados? | Sin preferencia |
 
 ## Charlas ya impartidas
 
@@ -42,11 +43,11 @@ Estas son las charlas que ya se han impartido en nuestras quedadas:
 
 ### Charlas del 28 de Enero de 2017
 
-#### Método de selección: 
- - Charlas seleccionadas por los coordinares de codenares. 
+#### Método de selección:
+ - Charlas seleccionadas por los coordinares de codenares.
  - Se priorizó ponentes que fueran de Alcalá de Henares.
  - Se priorizó disponibilidad y preferencia de sede de los ponentes.
- 
+
 | Ponente       | Perfil Ponente    | Localización ponente      | Titulo charla         | Descripción charla                  | Preferencias de sedes                  |
 | ------------- | ----------------- | ------------------------- | --------------------- | ----------------------------------- | -------------------------------------  |
 | Angel J. Alvarez Miguel | [Linked In](https://www.linkedin.com/in/angeljalvarezmiguel) | Alcalá de Henares         | Una breve historia de Erlang  | Charla sobre cómo empezar a desarrollar con Erlang                         | Alcalá de Henares                     |
@@ -54,9 +55,9 @@ Estas son las charlas que ya se han impartido en nuestras quedadas:
 
 ### Charlas del 8 de Abril de 2017
 
-#### Método de selección: 
+#### Método de selección:
 - La charla de Silvia Barroso fue seleccionada por la comunidad en la encuesta de preferencia. [Link](https://www.meetup.com/es-ES/codenares/polls/1240917/)
-- La charla de Daniel Romero fue elegida por los coordinadores de Codenares. El método de selección fue por orden de llegada en la inscripción de charla. Daniel fue el primero en indicar su charla. 
+- La charla de Daniel Romero fue elegida por los coordinadores de Codenares. El método de selección fue por orden de llegada en la inscripción de charla. Daniel fue el primero en indicar su charla.
 - Con ambos métodos buscamos la participanción de la comunidad y evitamos la posible inanición de charlas. De esta forma prevenimos que solo se impartan charlas por hype y beneficiamos la diversidad y la escucha de todas las voces.
 
 
@@ -65,7 +66,7 @@ Estas son las charlas que ya se han impartido en nuestras quedadas:
 | Silvia Barroso Padilla  | [Linked In](https://es.linkedin.com/in/silviabarroso) | Torrejón                  | UX, en busca del arca perdida | Charla sobre la relación que existe entre UX y Desarrollo                  | --                                    |
 | Daniel Romero Esteban | [Linked In](https://www.linkedin.com/in/daniel-romero-esteban-b2901a72) | Guadalajara | Colega ¿Donde está mi dispostivo? | Estado del arte de la geolocalización outdoor e indoor con google maps, foursquare, indooratlas y alguno más | Guadalajara, Alcalá de Henares |
 
-### Charlas del 10 de Junio de 2017 
+### Charlas del 10 de Junio de 2017
 
 #### Método de selección:
 - La charla de Rubén Fernández fue seleccionada por la comunidad como segunda opción en la encuesta de charlas presentadas. [Link](https://www.meetup.com/es-ES/codenares/polls/1240917/). (Para la siguiente jornada se volverá a abrir la encuesta para renovar los votos).
