@@ -35,24 +35,34 @@ A día de hoy estas son las charlas que la comunidad codenares ha propuesto:
 | Alberto Marcos | [Twitter](https://twitter/alber86) [LinkedIn](https://www.linkedin.com/in/amarcos86/) | Torrejón de Ardoz | Cómo intenté hacerme rico con la nube... y fracasé estrepitosamente | He probado de todo, un sistema potentísimo de minado de bitcoins, algoritmos de Machine Learning para acertar la Quiniela, y hasta una forma de jugar a videojuegos en Ultra HD por streaming desde cualquier dispositivo, pero nada, todavía no he podido forrarme con esto de la nube | Torrejón |
 | Ruben J Garcia | [Twitter](https://twitter.com/imrubenjgarcia) [Linked In](https://www.linkedin.com/in/rubenjgarciab) | Loeches | Arquitecturas abstractas | En esta charla tratare de explicar los conceptos funcionales y tecnicos que he usado para crear la arquitectura que hay detras de las aplicaciones que desarrollamos en mi empresa. Esta arquitectura es abstracta permitiendo a los programadores no tener que conocer la implementacion que hay detras para poder hacer su trabajo y hace que los desarrollos sean mas rapidos y con menos errores. Ademas conseguimos gracias a un nivel mayor de abstraccion publicar nuestros servicios en forma de Webservice, REST o incluso EJB sin necesidad de cambiar una sola linea de codigo. Otras funcionalidades son DSLs para queries a base de datos, capa de repositorio (DAO) y Builder totalmente abstractas y bases de datos orientada a componentes | Sin preferencia |
 | Ruben J Garcia | [Twitter](https://twitter.com/imrubenjgarcia) [Linked In](https://www.linkedin.com/in/rubenjgarciab) | Loeches | Abstrayendo la logica de negocio del UI | Veremos como se pueden crear aplicaciones en las que podemos reutilizar todo el front pero que dependiendo del cliente donde vayamos a implantar la logica sea distinta. En tiempo de ejecucion podemos cambiar el comportamiento de nuestra aplicacion e incluso delegar esto al cliente final haciendo aplicaciones mas versatiles y ahorrando costes al crear productos en vez de unicas soluciones | Sin preferencia |
-| Bea Hernández | [Twitter](https://twitter.com/chucheria) [Linked In](https://www.linkedin.com/in/bea-hern%C3%A1ndez-9ab53b71/) | Madrid | La gente miente, ¿me puedo fiar de mis resultados? | Cuando trabajas con opiniones, formularios, *ratings*, es difícil creer que todo el mundo está diciendo lo que piensa, ¿qué puedo hacer para obtener unos datos fiables? ¿Qué tengo que considerar para no caer en trampas? Y por último, y más importante, ¿cómo anticipo un sesgo en mis datos y lo tengo en cuenta a la hora de producir resultados? | Sin preferencia |
-| Jose Dongil | [Twitter](https://twitter.com/jdonsan) | Guadalajara | Aprendiendo VueJS: Un ejemplo práctico de cómo usarlo | Es el framework JavaScript de moda, sin embargo en España todavía no se ha explotado ni explicado demasiado la razón por la que se está convirtiendo en una de las herramientas a tener en cuenta en los próximos años, si no has dado el paso a Angular y React todavía, en esta charla podrás aprender a cómo empezar a crear componentes con VueJS | Sin preferencia |
 
 ## Charlas ya impartidas
 
 Estas son las charlas que ya se han impartido en nuestras quedadas:
 
-### Charlas del 28 de Enero de 2017
+### Charlas del 23 de Septiembre de 2017
 
 #### Método de selección:
- - Charlas seleccionadas por los coordinares de codenares.
- - Se priorizó ponentes que fueran de Alcalá de Henares.
- - Se priorizó disponibilidad y preferencia de sede de los ponentes.
+- La charla de Jose Dongil fue seleccionada por la comunidad como primera opción en la encuesta de charlas presentadas. [Link](https://www.meetup.com/es-ES/codenares/polls/1252544/).
+- La charla de Bea Hernández fue seleccionada por los organizadores de la comunidad. Nos apetecía contar con una charla que se desmarcara tanto del desarrollo back, como del desarrollo front y nos contase algo sobre el análisis de datos. La charla de Bea da una frescura y una temática diferente a lo visto en este año.
+
 
 | Ponente       | Perfil Ponente    | Localización ponente      | Titulo charla         | Descripción charla                  | Preferencias de sedes                  |
 | ------------- | ----------------- | ------------------------- | --------------------- | ----------------------------------- | -------------------------------------  |
-| Angel J. Alvarez Miguel | [Linked In](https://www.linkedin.com/in/angeljalvarezmiguel) | Alcalá de Henares         | Una breve historia de Erlang  | Charla sobre cómo empezar a desarrollar con Erlang                         | Alcalá de Henares                     |
-| Rubén Aguilera | [LinkedIn](https://es.linkedin.com/in/rubenaguilera) | Alcalá de Henares | Integración Angular, Polymer, Ionic 2 y Firebase | En esta charla vamos a ver cómo podemos integrar estas tecnologías para crear aplicaciones móviles con módulos reutilizables y haciendo un poco de live coding | -- |
+| Bea Hernández | [Twitter](https://twitter.com/chucheria) [Linked In](https://www.linkedin.com/in/bea-hern%C3%A1ndez-9ab53b71/) | Madrid | La gente miente, ¿me puedo fiar de mis resultados? | Cuando trabajas con opiniones, formularios, *ratings*, es difícil creer que todo el mundo está diciendo lo que piensa, ¿qué puedo hacer para obtener unos datos fiables? ¿Qué tengo que considerar para no caer en trampas? Y por último, y más importante, ¿cómo anticipo un sesgo en mis datos y lo tengo en cuenta a la hora de producir resultados? | Sin preferencia |
+| Jose Dongil | [Twitter](https://twitter.com/jdonsan) | Guadalajara | Aprendiendo VueJS: Un ejemplo práctico de cómo usarlo | Es el framework JavaScript de moda, sin embargo en España todavía no se ha explotado ni explicado demasiado la razón por la que se está convirtiendo en una de las herramientas a tener en cuenta en los próximos años, si no has dado el paso a Angular y React todavía, en esta charla podrás aprender a cómo empezar a crear componentes con VueJS | Sin preferencia |
+
+### Charlas del 10 de Junio de 2017
+
+#### Método de selección:
+- La charla de Rubén Fernández fue seleccionada por la comunidad como segunda opción en la encuesta de charlas presentadas. [Link](https://www.meetup.com/es-ES/codenares/polls/1240917/). (Para la siguiente jornada se volverá a abrir la encuesta para renovar los votos).
+- La charla de Sonia Conde fue seleccionada por los organizadores de la comunidad. La decisión se basa en un equilibrio en ámbitos dentro de la jornada. La charla de Rubén está más orientada al mundo back y la charla de Sonia está orientada al mundo front, ganamos mucho en la perspectiva Web y seguimos dando presencia a diversas voces.
+
+
+| Ponente       | Perfil Ponente    | Localización ponente      | Titulo charla         | Descripción charla                  | Preferencias de sedes                  |
+| ------------- | ----------------- | ------------------------- | --------------------- | ----------------------------------- | -------------------------------------  |
+| Rubén Fernández | [Twitter](https://twitter/_rubenfa) [LinkedIn](https://www.linkedin.com/in/rub%C3%A9n-fern%C3%A1ndez-alfonso-78803327/) | Rivas | Programación funcional para ~~tontos~~ todos (con Elixir) | Aunque la PF puede parecer algo más propio de Rockstars developers, en realidad está al alcance de cualquiera. Vamos, que si yo puedo aprender Elixir, tú también | --
+| Sonia Conde| [Linked In](https://www.linkedin.com/in/soniaconde/) | Madrid | Atomic Web Design | Creando sistemas de componentes para no perder la cabeza.  | -- |--
 
 ### Charlas del 8 de Abril de 2017
 
@@ -67,14 +77,16 @@ Estas son las charlas que ya se han impartido en nuestras quedadas:
 | Silvia Barroso Padilla  | [Linked In](https://es.linkedin.com/in/silviabarroso) | Torrejón                  | UX, en busca del arca perdida | Charla sobre la relación que existe entre UX y Desarrollo                  | --                                    |
 | Daniel Romero Esteban | [Linked In](https://www.linkedin.com/in/daniel-romero-esteban-b2901a72) | Guadalajara | Colega ¿Donde está mi dispostivo? | Estado del arte de la geolocalización outdoor e indoor con google maps, foursquare, indooratlas y alguno más | Guadalajara, Alcalá de Henares |
 
-### Charlas del 10 de Junio de 2017
+### Charlas del 28 de Enero de 2017
 
 #### Método de selección:
-- La charla de Rubén Fernández fue seleccionada por la comunidad como segunda opción en la encuesta de charlas presentadas. [Link](https://www.meetup.com/es-ES/codenares/polls/1240917/). (Para la siguiente jornada se volverá a abrir la encuesta para renovar los votos).
-- La charla de Sonia Conde fue seleccionada por los organizadores de la comunidad. La decisión se basa en un equilibrio en ámbitos dentro de la jornada. La charla de Rubén está más orientada al mundo back y la charla de Sonia está orientada al mundo front, ganamos mucho en la perspectiva Web y seguimos dando presencia a diversas voces.
-
+ - Charlas seleccionadas por los coordinares de codenares.
+ - Se priorizó ponentes que fueran de Alcalá de Henares.
+ - Se priorizó disponibilidad y preferencia de sede de los ponentes.
 
 | Ponente       | Perfil Ponente    | Localización ponente      | Titulo charla         | Descripción charla                  | Preferencias de sedes                  |
 | ------------- | ----------------- | ------------------------- | --------------------- | ----------------------------------- | -------------------------------------  |
-| Rubén Fernández | [Twitter](https://twitter/_rubenfa) [LinkedIn](https://www.linkedin.com/in/rub%C3%A9n-fern%C3%A1ndez-alfonso-78803327/) | Rivas | Programación funcional para ~~tontos~~ todos (con Elixir) | Aunque la PF puede parecer algo más propio de Rockstars developers, en realidad está al alcance de cualquiera. Vamos, que si yo puedo aprender Elixir, tú también | --
-| Sonia Conde| [Linked In](https://www.linkedin.com/in/soniaconde/) | Madrid | Atomic Web Design | Creando sistemas de componentes para no perder la cabeza.  | -- |--
+| Angel J. Alvarez Miguel | [Linked In](https://www.linkedin.com/in/angeljalvarezmiguel) | Alcalá de Henares         | Una breve historia de Erlang  | Charla sobre cómo empezar a desarrollar con Erlang                         | Alcalá de Henares                     |
+| Rubén Aguilera | [LinkedIn](https://es.linkedin.com/in/rubenaguilera) | Alcalá de Henares | Integración Angular, Polymer, Ionic 2 y Firebase | En esta charla vamos a ver cómo podemos integrar estas tecnologías para crear aplicaciones móviles con módulos reutilizables y haciendo un poco de live coding | -- |
+
+
