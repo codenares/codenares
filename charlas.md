@@ -10,12 +10,13 @@ El sistema para hacer una propuesta será la siguiente:
 ## Directrices sobre las charlas
 Nos gustaría contar con charlas con los siguientes parámetros:
 
-1. Charlas que cuenten experiencias sobre temas relacionados con tecnología y desarrollo de software.
-2. Charlas que no estén vinculadas a la promoción ni la divulgación de productos y/o empresas con intereses comerciales.
-3. Charlas que traten sobre software (lenguajes de programación, frameworks, buenas prácticas, testing...)
+1. Charlas que cumplan el [Código de conducta](https://github.com/codenares/codenares/wiki/C%C3%B3digo-de-conducta)
+2. Charlas que cuenten experiencias sobre temas relacionados con tecnología y desarrollo de software.
+3. Charlas que no estén vinculadas a la promoción ni la divulgación de productos y/o empresas con intereses comerciales.
+4. Charlas que traten sobre software (lenguajes de programación, frameworks, buenas prácticas, testing...)
 pero también sobre áreas tan variopintas como el análisis de datos, IoT, Cloud, Data, Machine Learning, Arquitectura, UX, Front o Agilismo.
 Cualquier tema puede ser bueno mientras respete las premisas anteriores.
-4. Charlas con una duración de entre 30 o 40 minutos.
+5. Charlas con una duración de entre 30 o 40 minutos.
 
 ## Charlas propuestas
 
