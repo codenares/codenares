@@ -44,7 +44,7 @@ Estas son las charlas que ya se han impartido en nuestras jornadas:
 #### Método de selección:
 - La charla de César Alberca y Javier Sánchez es una invitación por parte de Codenares a Autentia. Ya que han decidido cedernos dos veces su local en sábado y con desayuno gratuito, nos apetecía darles un slot donde gente de su equipo nos cuente algo sobre tecnología
 - La charla de Ruben J Garcia fue la segunda opción en la encuesta de charlas. Rubén no tenía disponibilidad por lo que hemos decidido ocupar su espacio con las charlas de Débora Gómez y Juan Lupión. 
-- Los temas ha tratar en la jornada han salido en varios debates y muchos asistentes nos han demandado estos temas. Hemos intentando escuchar de nuevo y poner temas actuales que pueden ayudarnos en nuestro día a día.
+- Los temas a tratar en la jornada han salido en varios debates y muchos asistentes nos han demandado estos temas. Hemos intentando escuchar de nuevo y poner temas actuales que pueden ayudarnos en nuestro día a día.
 
 
 | Ponente       | Perfil Ponente    | Localización ponente      | Titulo charla         | Descripción charla                  | Preferencias de sedes                  |
