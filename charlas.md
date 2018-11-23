@@ -33,7 +33,7 @@ A día de hoy estas son las charlas que la comunidad codenares ha propuesto:
 | Alberto Marcos | [Twitter](https://twitter/alber86) [LinkedIn](https://www.linkedin.com/in/amarcos86/) | Torrejón de Ardoz | Cómo intenté hacerme rico con la nube... y fracasé estrepitosamente | He probado de todo, un sistema potentísimo de minado de bitcoins, algoritmos de Machine Learning para acertar la Quiniela, y hasta una forma de jugar a videojuegos en Ultra HD por streaming desde cualquier dispositivo, pero nada, todavía no he podido forrarme con esto de la nube | Torrejón |
 | Ruben J Garcia | [Twitter](https://twitter.com/imrubenjgarcia) [Linked In](https://www.linkedin.com/in/rubenjgarciab) | Loeches | Arquitecturas abstractas | En esta charla tratare de explicar los conceptos funcionales y tecnicos que he usado para crear la arquitectura que hay detras de las aplicaciones que desarrollamos en mi empresa. Esta arquitectura es abstracta permitiendo a los programadores no tener que conocer la implementacion que hay detras para poder hacer su trabajo y hace que los desarrollos sean mas rapidos y con menos errores. Ademas conseguimos gracias a un nivel mayor de abstraccion publicar nuestros servicios en forma de Webservice, REST o incluso EJB sin necesidad de cambiar una sola linea de codigo. Otras funcionalidades son DSLs para queries a base de datos, capa de repositorio (DAO) y Builder totalmente abstractas y bases de datos orientada a componentes | Sin preferencia |
 | Ruben J Garcia | [Twitter](https://twitter.com/imrubenjgarcia) [Linked In](https://www.linkedin.com/in/rubenjgarciab) | Loeches | Abstrayendo la logica de negocio del UI | Veremos como se pueden crear aplicaciones en las que podemos reutilizar todo el front pero que dependiendo del cliente donde vayamos a implantar la logica sea distinta. En tiempo de ejecucion podemos cambiar el comportamiento de nuestra aplicacion e incluso delegar esto al cliente final haciendo aplicaciones mas versatiles y ahorrando costes al crear productos en vez de unicas soluciones | Sin preferencia |
-
+| Debora Gomez | [Twitter](https://twitter.com/dgomezdebora) [LinkedIn](https://www.linkedin.com/in/deboragomezbertoli/) | Madrid | From Zero to Hero with Spring Boot & Kotlin | ¿Eres desarrollador front y no te has atrevido a dar el salto a back? Durante esta sesión os iré guiando paso a paso con el objetivo de que al final de la sesión todos tengáis vuestro primer microservicio en kotlin corriendo en tu portátil. Si quieres seguir la sesión trae tu portatil con JDK, IntelliJ y docker installdo. | Sin preferencia |
 
 ## Charlas ya impartidas
 
@@ -43,7 +43,7 @@ Estas son las charlas que ya se han impartido en nuestras jornadas:
 
 #### Método de selección:
 - La charla de César Alberca y Javier Sánchez es una invitación por parte de Codenares a Autentia. Ya que han decidido cedernos dos veces su local en sábado y con desayuno gratuito, nos apetecía darles un slot donde gente de su equipo nos cuente algo sobre tecnología
-- La charla de Ruben J Garcia fue la segunda opción en la encuesta de charlas. Rubén no tenía disponibilidad por lo que hemos decidido ocupar su espacio con las charlas de Débora Gómez y Juan Lupión. 
+- La charla de Ruben J Garcia fue la segunda opción en la encuesta de charlas. Rubén no tenía disponibilidad por lo que hemos decidido ocupar su espacio con las charlas de Débora Gómez y Juan Lupión.
 - Los temas a tratar en la jornada han salido en varios debates y muchos asistentes nos han demandado estos temas. Hemos intentando escuchar de nuevo y poner temas actuales que pueden ayudarnos en nuestro día a día.
 
 
@@ -126,5 +126,3 @@ Estas son las charlas que ya se han impartido en nuestras jornadas:
 | ------------- | ----------------- | ------------------------- | --------------------- | ----------------------------------- | -------------------------------------  |
 | Angel J. Alvarez Miguel | [Linked In](https://www.linkedin.com/in/angeljalvarezmiguel) | Alcalá de Henares         | Una breve historia de Erlang  | Charla sobre cómo empezar a desarrollar con Erlang                         | Alcalá de Henares                     |
 | Rubén Aguilera | [LinkedIn](https://es.linkedin.com/in/rubenaguilera) | Alcalá de Henares | Integración Angular, Polymer, Ionic 2 y Firebase | En esta charla vamos a ver cómo podemos integrar estas tecnologías para crear aplicaciones móviles con módulos reutilizables y haciendo un poco de live coding | -- |
-
-
